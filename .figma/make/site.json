@@ -1,0 +1,15 @@
+{
+  "title": "ReAlgLia — Álgebra relacional",
+  "language": "pt-BR",
+  "description": "Ferramenta educacional para aprender álgebra relacional, traduzindo expressões para SQL e exibindo resultados em uma base de dados de exemplo.",
+  "icons": {
+    "icon": "/realglia.svg"
+  },
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
